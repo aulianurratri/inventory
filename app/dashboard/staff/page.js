@@ -131,7 +131,7 @@ export default function AdminDashboard() {
         <div className="flex items-center justify-between mb-3 text-sm text-gray-600">
           <span>Inventory System - Fairelapparel</span>
           <span className="bg-indigo-100 text-indigo-700 px-2 py-1 rounded-full font-medium">
-            Admin
+            Staff
           </span>
         </div>
         <h1 className="text-3xl font-bold text-indigo-800 mb-4 capitalize">
